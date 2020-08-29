@@ -1,0 +1,6 @@
+onnxruntime
+scikit-image
+pillow
+pycuda
+matplotlib
+tf2onnx
