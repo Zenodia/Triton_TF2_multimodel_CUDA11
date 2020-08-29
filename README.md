@@ -1,6 +1,6 @@
 This repository an minimalistic experiment on Triton serving multiple models ( 2 to be exactly with T) using latest CUDA 11 and TensorRT7.X
 with tensorflow 2.2 
-## big thanks to Anas Abidin aabidin@nvidia.com , his triton and tensorRT deepdive webniar is brilliant, my experiment is a modification for Tensorflow 2.2 based on his work !
+## big thanks to Anas Abidin aabidin@nvidia.com , his triton and tensorRT deepdive webniar [link here](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=devnws&eventid=2355478&sessionid=1&key=F89A7BE8742F98334CEDDA4E86A6D5F0&regTag=1055756&sourcepage=register) is brilliant, my experiment is a modification for Tensorflow 2.2 based on his work !
 
 # get the data 
 go to this [my google drive](https://drive.google.com/drive/folders/1zC0f3T-jdNiP_6mDO4AWxtyRn-YiX2GX?usp=sharing)
